@@ -5,7 +5,7 @@ description:
 baseurl:            #""
 url:                #"https://lenpaul.github.io"
 github:
-  url:               #"http://elisepotts.github.io"
+  url:               #"https://elisepotts.github.io"
 author:
   name:              "Elise Marie Potts"
   email:             "elise.potts@gmail.com"

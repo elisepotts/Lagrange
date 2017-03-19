@@ -2,4 +2,4 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing.
+Curriculum Developer with 5 years of experience in educational program development, design, and implementation. As a creative and technical writer, I bring a unique ability to develop fun, interactive programs designed to build children’s social-emotional skills and empower them to be positive leaders in their schools and communities. Demonstrated ability in building partnerships, creative problem solving, and collaborative program development. 

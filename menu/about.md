@@ -7,12 +7,10 @@ image: Elise_pink_headshot_1419x1334.jpg
 ![alt text](https://github.com/elisepotts/elisepotts.github.io/raw/master/images/Elise_pink_headshot_1419x1334.jpg "Elise Potts headshot")
 
 **Hi, my Name is**
-
 Elise Marie Potts
 
 
 **And I live in**
-
 Atlanta, GA
 
 

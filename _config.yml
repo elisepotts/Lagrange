@@ -18,8 +18,8 @@ navigation:
   url: /about
 - title: Writing
   url: /writing
-- title: Contact
-  url: /contact
+- title: Projects
+  url: /projects
 
 paginate:            5
 disqus:              #"your-disqus"

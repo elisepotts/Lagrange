@@ -15,7 +15,7 @@ Atlanta, GA
 
 
 **I spend most of my day**  
-Designing fun, interactive games to build children’s social-emotional skills and empower them to be positive leaders in their schools and communities.
+designing fun, interactive games to build children’s social-emotional skills and empower them to be positive leaders in their schools and communities.
 
 
 **I’ve been doing this for**  
@@ -23,5 +23,5 @@ Designing fun, interactive games to build children’s social-emotional skills a
 
 
 **Because my passion is**  
-Inspiring children to become active, lifelong learners.
+inspiring children to become active, lifelong learners.
 

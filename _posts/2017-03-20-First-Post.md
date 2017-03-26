@@ -21,10 +21,8 @@ Unlearning is not about forgetting. It’s about choosing a different way of thi
 
 ![alt text](https://github.com/elisepotts/elisepotts.github.io/raw/master/images/einstein.jpg "Einstein - we cannot solve our problems with the same thinking we used when we created them.")
 
-So why VR? I’m interested in exploring ways to teach social-emotional learning beyond the classroom walls. VR has the capacity to capture children’s attention and elevate traditional learning experiences. 
+So why VR? I’m interested in exploring ways to teach social-emotional learning beyond the classroom walls. VR has the capacity to capture children’s attention and elevate traditional learning experiences.
 
 ![alt text](https://github.com/elisepotts/elisepotts.github.io/raw/master/images/human_brain_remembers.jpg "The human brain remember ten percent of what it hears, twenty percent of what it reads, and ninety percent of what it does.")
-
-For example, we could use VR to reinforce self-awareness and teach problem-solving skills. And here’s a thought: Could stepping into a VR experience to see what life looks like in other parts of the world help children with perspective-taking and increase global tolerance? 
 
 The potential for thoughtful integration of VR and social-emotional learning is real. So grab your headsets and let’s explore!

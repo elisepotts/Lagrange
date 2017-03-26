@@ -4,9 +4,8 @@ title: About
 image: Elise_pink_headshot_1419x1334.jpg
 ---
 
-![alt text](https://github.com/elisepotts/elisepotts.github.io/raw/master/images/Elise_pink_headshot_1419x1334.jpg "Elise Potts headshot")
+![alt text](https://github.com/elisepotts/elisepotts.github.io/raw/master/images/Elise_pink_headshot_600x564.jpg "Elise Potts headshot")
 
-<img src="https://github.com/elisepotts/elisepotts.github.io/raw/master/images/Elise_pink_headshot_1419x1334.jpg" alt="Elise Potts headshot" width="710" height="667">
 
 **Hi, my Name is**  
 Elise Marie Potts

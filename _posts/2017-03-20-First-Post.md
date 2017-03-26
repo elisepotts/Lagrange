@@ -4,8 +4,8 @@ title: "I was so interested, I forgot to be afraid"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: I_forgot_to_be_afraid.jpg
-  teaser: I_forgot_to_be_afraid.jpg
+  feature: I_forgot_to_be_afriad.jpg
+  teaser: I_forgot_to_be_afriad.jpg
   credit:
   creditlink:
 ---

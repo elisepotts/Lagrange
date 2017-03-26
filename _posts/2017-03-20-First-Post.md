@@ -2,7 +2,7 @@
 layout: post
 title: "I was so interested, I forgot to be afraid"
 categories: journal
-tags: [documentation,sample]
+tags: [VR,social-emotional learning]
 image:
   feature: I_forgot_to_be_afriad.jpg
   teaser: I_forgot_to_be_afriad.jpg

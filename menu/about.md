@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![alt text](https://github.com/elisepotts/elisepotts.github.io/raw/master/images/Elise_pink_headshot_600x564.jpg "Elise Potts headshot")
+![alt text](https://github.com/elisepotts/elisepotts.github.io/raw/master/images/elise_brick_headshot_cropped_800.jpg "Elise Potts headshot")
 
 
 **Hi, my Name is**  
